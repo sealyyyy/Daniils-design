@@ -1,0 +1,17 @@
+x - Skapa en "att göra lista" och skriva in allt som måste bli färdigt under detta mini-moment
+
+x - Klara av nivåerna 1-14 på flexbox adventure (länk finns på classroom)
+
+x - Ladda hem Daniils design och klistra in i eget dokument som är lättillgängligt
+
+x - Skapa en repository med namnet: "Daniils-design"
+
+x - Skapa alla filer som kommer att behövas för att slutföra projektet i repot
+
+x - Skapa en hemsida som är så lik Daniils som möjligt (HTML + CSS)
+
+x - Kommentera all kod
+
+- Publicera hemsidan med hjälp av Github Pages
+
+- Säg "Bossman, jag är klar" till Daniil
