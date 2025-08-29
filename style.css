@@ -64,11 +64,9 @@ html, body {
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-.main-right h {
-    font-size: 25px;
+.main-right h1 {
     font-weight: bold;
 }
 .main-right p {
-    padding-top: 20px;
     font-size: 12px;
 }
