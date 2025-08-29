@@ -14,7 +14,7 @@ html, body {
     border-width: 1px;
 }
 .navbar-left {
-    flex: 80%;
+    flex: 60%;
     display: flex;
     align-items: center;
 }
@@ -26,9 +26,11 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
 }
 .navbar-right {
-    flex: 20%;
+    padding-right: 10px;
+    flex: 40%;
     display: flex;
-    justify-content: space-around;
+    gap: 15px;
+    justify-content: flex-end;
     align-items: center;
     font-size: 10px;
     font-weight: bold;
@@ -45,6 +47,11 @@ html, body {
     height: 90%;
     width: 100%;
 }
+@media screen and (max-width: 600px) {
+    .main {
+        flex-direction: column-reverse;
+    }
+}
 .main-left {
     align-items: center;
     justify-content: center;
@@ -52,7 +59,7 @@ html, body {
     display: flex;
 }
 .main-left img {
-    width: 350px;
+    width: 200px;
     border-radius: 100%;
 }
 .main-right {
@@ -66,6 +73,7 @@ html, body {
 }
 .main-right h1 {
     font-weight: bold;
+    text-align: center;
 }
 .main-right p {
     font-size: 12px;

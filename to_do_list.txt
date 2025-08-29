@@ -12,6 +12,6 @@ x - Skapa en hemsida som är så lik Daniils som möjligt (HTML + CSS)
 
 x - Kommentera all kod
 
-- Publicera hemsidan med hjälp av Github Pages
+x - Publicera hemsidan med hjälp av Github Pages
 
-- Säg "Bossman, jag är klar" till Daniil
+x - Säg "Bossman, jag är klar" till Daniil
